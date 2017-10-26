@@ -1,4 +1,8 @@
- weUI  DatePicker只选择年月
+## weUI 文档
+https://github.com/Tencent/weui/wiki
+
+
+## weUI  DatePicker只选择年月
  
 
 weui同样提供了datapicker的实例，但是某些情况下，只需要年月选择，现提供demo如下：
